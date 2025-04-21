@@ -1,0 +1,10 @@
+{
+  "name": "twilio-function-stream",
+  "version": "1.0.0",
+  "description": "Twilio Function for WebSocket bridging and real-time processing.",
+  "main": "stream.js",
+  "dependencies": {
+    "ws": "^8.18.0",
+    "axios": "^1.7.2"
+  }
+}
